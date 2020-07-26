@@ -6,4 +6,4 @@ A simple HTML and Java web application that pulls updated pandemic data daily fr
 
 ![Alt text](USCovidCasesJuly25th.png?raw=true "US Caronavirus Cases As of July 25th")
 
-I'd liek to find a way to more easily deploy the maven project on Github
+I'd like to find a way to more easily deploy the maven project on Github
