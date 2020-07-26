@@ -4,7 +4,7 @@ A simple HTML and Java web application that pulls updated pandemic data daily fr
 
 `Right now, downloading and importing the repo into an IDE is the best way to run. Then access from browser at:`http://localhost:8080 `.`
 
-Runnning the program:
+Runnning the program a few months later `July 25th, 2020`: 
 ![Alt text](CovidTracker.png?raw=true "Running covid-tracker a few months later.")
 
 Find US Example:
